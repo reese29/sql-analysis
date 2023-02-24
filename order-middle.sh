@@ -1,0 +1,1 @@
+result/soar -query=result/order-middle.sql -report-type=json >> result/order-middle.md
